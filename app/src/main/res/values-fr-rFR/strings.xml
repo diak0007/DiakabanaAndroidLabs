@@ -2,5 +2,8 @@
 <resources>
     <string name="app_name">DiakabanaAndroidLabs</string>
     <string name="hello_message">Bonjour tout le monde</string>
-    <string name="button_message">Je suis un boutton</string>
+    <string name="button_message">Se connecter</string>
+    <string name="filler">Ecriver ici</string>
+    <string name="email">Entrer votre email:</string>
+    <string name="pass">Entrer votre mot de passe</string>
 </resources>
